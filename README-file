@@ -1,0 +1,73 @@
+# QR code component solution
+
+Hello, this is my first readme document, so pardon me if I made some errors. Thanks!
+
+# Responsive QR Code Project
+
+This project demonstrates a responsive QR code card using HTML and CSS. The card includes a QR code image, a title, and a descriptive paragraph.
+
+ It adjusts its layout to be mobile-friendly using CSS media queries. (I don't know about this but I really tried to get it relatively close to 'mobile-friendly' to no avail)
+
+## Preview
+
+![Preview of the QR Code Card] (desktop-preview.jpg and mobile-design.jpg)
+
+## Features
+
+- Responsive design that adapts to different screen sizes
+- Clean and modern layout
+- Easy to customize
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have a modern web browser installed.
+
+### Installation
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/onyiyaay/qr-code-proj.git
+
+2. Open the 'index.html' file on your browser to view the project.
+
+QR-code-proj/
+├── index.html
+├── stylessheet.css
+|__ reset.css
+└── README.md
+
+Plus designs and images....
+
+3. HTML--- Simply replace the QR code with any code of your choice and you can also change the content of the card if you really want to.
+
+4. CSS --- You can either clone mine or be creative with yours, your choice but my important advice is that you get the media queries right, even better than mine. 
+
+5. Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+To do this;
+
+a. Fork the Project
+b. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+c. Commit your Changes (git commit -m 'Add some AmazingFeature')
+d. Push to the Branch (git push origin feature/AmazingFeature)
+e. Open a Pull Request
+
+6. Contact
+Onyinyechi Iwuchukwu - onyi.iwuchukwu23@gmail.com
+
+Project Link: https://github.com/onyiyaay/qr-code-proj
+
+Thank you for reading to this point, as you know, I am learning software development and this is one of the many html and css-related projects I am playing arounf with to be more knowledgeable.
+
+Good luck!
